@@ -1,0 +1,3 @@
+tar: .
+spec: .gear/libcrl.spec
+copy: .gear/crl.gyp
