@@ -8,7 +8,7 @@
   'targets': [{
     'target_name': 'libcrl',
     'type': 'shared_library',
-    'product_extension': 'so.0.0',
+    'product_extension': 'so.0.2',
     'dependencies': [],
     'link_settings': { 'libraries': ['-lQt5Core'] },
     'defines': [
