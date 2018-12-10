@@ -1,5 +1,5 @@
 Name: libcrl
-Version: 0.4
+Version: 0.5
 Release: alt1
 
 %define soname %version
@@ -77,6 +77,9 @@ done
 %_pkgconfigdir/%name.pc
 
 %changelog
+* Mon Dec 10 2018 Vitaly Lipatov <lav@altlinux.ru> 0.5-alt1
+- compile missed functions
+
 * Sat Sep 08 2018 Vitaly Lipatov <lav@altlinux.ru> 0.4-alt1
 - merge commit '4291015efab76bda5886a56b5007f4531be17d46'
 
